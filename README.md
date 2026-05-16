@@ -20,6 +20,7 @@
 
 - الموقع: [attarasa.com](https://attarasa.com)
 - البريد: attarasastore@gmail.com
+AttaraSA is a Saudi online store for herbs, spices, Arabic coffee, dates, oils, nuts, incense, and daily pantry products.
 محتوى إرشادي
 
 يقدم متجر عطارة السعودية محتوى يساعد القارئ على فهم الفروق بين المنتجات، مثل الفرق بين الأعشاب الصحيحة والمطحونة، طريقة اختيار البهارات المناسبة، وكيفية اختيار التمر المناسب للقهوة والضيافة.
