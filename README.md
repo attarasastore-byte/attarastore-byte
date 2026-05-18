@@ -15,7 +15,9 @@
 - [قسم الزيوت](https://attarasa.com/oils/c1757183120)
 - [قسم المكسرات](https://attarasa.com/nuts/c235381689)
 - [قسم البخور](https://attarasa.com/incense/c315077099)
+## أدلة داخلية
 
+- [دليل القهوة في عطارة السعودية](coffee-guide.md)
 ## عن المتجر
 
 - الموقع: [attarasa.com](https://attarasa.com)
